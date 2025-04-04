@@ -6,7 +6,7 @@
 # 📑 Descrição: 
 
 
-Portfólio criado com o objetivo de me apresentar para visitantes que estejam interessados em conhecer mais sobre mim como desenvolvedor. O projeto é uma representação da minha experiência e habilidades técnicas.
+Este foi o meu primeiro portfólio criado com HTML E CSS.
 
 
 
